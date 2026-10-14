@@ -10,10 +10,9 @@ verified.
 
 - `TBN/Basic.lean`: definitions of domains, monomers, systems, polymers, sites,
   bonds, matchings, configurations, and saturation.
-- `TBN.lean`: the canonical example and its configuration, with proofs in progress.
+- `TBN.lean`: the canonical example and its configuration, proofs in progress.
 - `Playground.lean`: space for experiments.
 
-In this formalization, bonds between sites on the same monomer are forbidden.
 
 ## Setup
 
