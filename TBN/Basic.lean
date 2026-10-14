@@ -88,4 +88,7 @@ def Configuration.Saturated {T : TBN} (C : Configuration T) : Prop :=
       ¬ (s1.Exposed (C.matching P P_in_config).bonds
         ∧ s2.Exposed (C.matching Q Q_in_config).bonds)
 
+
+
+
 end TBNs
